@@ -21,23 +21,20 @@ Developer belajar PAWN & SA-MP scripting.
 
 ## Sedang Kerjain
 
-- [ ] Gamemode dasar yang proper
-- [ ] OOP di PAWN
+- [ ] Gamemode **Republic**
+- [ ] Fitur-fitur for Republic
 - [ ] Optimasi database query
 
 ## Resources
 
 - [SA-MP Wiki](https://www.sa-mp.com/wiki/)
 - [OpenMP Docs](https://www.open.mp/)
-- ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
-
+- ![YouTube](https://www.youtube.com/engkqsamp)
 ## Connect
 
 - ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white) engkq
 - ![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white) engkqdev@gmail.com
 
 ---
-
-![grind](https://media.giphy.com/media/o0HYLiOM0lwyI8NBSU/giphy.gif)
 
 *Still learning, keep grinding.*
