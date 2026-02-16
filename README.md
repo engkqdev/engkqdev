@@ -1,96 +1,59 @@
-# 👋 Halo, Saya engkqdev!
+# Hey, I'm engkqdev 👋
 
-Selamat datang di profil GitHub saya! Saya seorang developer yang antusias dengan passion untuk membuat solusi software yang inovatif dan berkualitas.
+Seorang developer PAWN/SA-MP yang lagi belajar ngoding. Suka bikin gamemode dan script yang fungsional.
 
-## 🚀 Tentang Saya
+## 🎮 Tentang Gw
 
-- 💻 Full Stack Developer
-- 🎯 Fokus pada: Web Development, API Design, dan Software Architecture
-- 📚 Selalu belajar teknologi dan best practices terbaru
-- 🤝 Terbuka untuk kolaborasi dan diskusi teknis
+Gw taro effort di dunia PAWN, terutama di OpenMP dan SA-MP. Masih tahap belajar tapi siap improve skills terus-menerus. Klo ada yang bisa di-share, gw senang banget sama orang yang mau bantuin.
 
-## 🛠️ Skills & Teknologi
+## 💻 Tools & Language yang Gw Pake
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+- **PAWN** - Main language gw (ngab)
+- **OpenMP/SA-MP** - Framework favorit
+- **Visual Studio Code** - Text editor andalan
+- **Git** - Buat version control
+- **SQLite/MySQL** - Database basics
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## 🚀 Apa yang Lagi Gw Kerjain
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+- Belajar OOP di PAWN (lumayan tricky)
+- Ngerti in-depth tentang callback dan event handling
+- Coba-coba bikin login system yang proper
+- Debug scriptkode yang error (banyak banget hehe)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+## 📝 Beberapa Script yang Pernah Gw Bikin
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Basic stuff:**
+- Command system sederhana
+- Player spawn logic
+- Chat filter
+- Admin commands
 
-## 📊 GitHub Stats
+**Struggling with:**
+- Advanced dialog system
+- Database optimization
+- Proper code structure (masih berantakan)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark)
+## 🔧 Kenapa Gw Pilih PAWN?
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engkqdev&layout=compact&theme=dark)
+Honestly, PAWN itu unik. Banyak limitation tapi exactly karena itu jadi challenging. Plus community SA-MP masih solid banget, banyak resource yang membantu.
 
-## 🔥 Streak Stats
+## 📚 Lagi Belajar Dari
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=engkqdev&theme=dark)
+- Tutorial YouTube (specific PAWN channels)
+- GitHub repo dengan gamemode populer
+- Trial and error (banyak error hehe)
+- Tanya di forum klo stuck
 
-## 📌 Proyek Unggulan
+## 🤝 Kalau Ada Feedback
 
-### 🎯 Proyek 1: [Nama Proyek]
-Deskripsi singkat proyek Anda di sini. Apa yang membuat proyek ini special?
-- **Tech Stack**: React, Node.js, MongoDB
-- **Link**: [Repository](link)
+Gw appreciate banget klo ada saran atau mau diskusi soal script. Klo nemu bug atau ada cara lebih efficient, langsung aja bilang!
 
-### 🎯 Proyek 2: [Nama Proyek]
-Deskripsi singkat proyek Anda di sini.
-- **Tech Stack**: Vue.js, Django, PostgreSQL
-- **Link**: [Repository](link)
+## 📞 Hubungi Gw
 
-## 🌱 Saat Ini Sedang Belajar
-
-- 🔹 Advanced TypeScript
-- 🔹 System Design & Architecture
-- 🔹 Cloud Technologies (AWS, GCP)
-- 🔹 Machine Learning Basics
-
-## 📈 Kontribusi Open Source
-
-Saya aktif berkontribusi pada proyek-proyek open source:
-- Mencari issue "good first issue" untuk memulai
-- Membuat pull requests untuk improvement
-- Membantu dokumentasi
-
-## 💬 Mari Terhubung!
-
-- 📧 Email: [your-email@example.com](mailto:your-email@example.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 Website/Blog: [Your Blog](https://yourblog.com)
-
-## 💡 Quote Favorit
-
-> "Code is like humor. When you have to explain it, it's bad." - Cory House
+- Discord: [engkq]
+- Email: [engkqdev@gmail.com]
 
 ---
 
-<div align="center">
-  
-**Terima kasih telah berkunjung ke profil saya!** ⭐
-
-Jika Anda menyukai proyek saya, jangan lupa untuk memberikan star ⭐ dan follow untuk update terbaru!
-
-</div>
+*Still learning, still grinding.* ⚡
