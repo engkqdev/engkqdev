@@ -1,53 +1,67 @@
-# Hey, I'm engkqdev 👋
+# Yo, gw engkqdev! 🎮
 
-Seorang developer PAWN/SA-MP yang lagi belajar ngoding. Suka bikin gamemode dan script yang fungsional.
+Developer pemula yang lagi explore dunia PAWN dan SA-MP. Tempat gw nyimpan script, dokumentasi, dan eksperimen-eksperimen ngodb.
 
-## 🎮 Tentang Gw
+## 🎯 Apa yang Gw Lakukan
 
-Gw taro effort di dunia PAWN, terutama di OpenMP dan SA-MP. Masih tahap belajar tapi siap improve skills terus-menerus. Klo ada yang bisa di-share, gw senang banget sama orang yang mau bantuin.
+Mostly coding di PAWN untuk SA-MP/OpenMP. Mulai dari command system sederhana sampe masalah yang lebih kompleks. Banyak error, banyak belajar, itu thrill-nya hehe.
 
-## 💻 Tools & Language yang Gw Pake
+## 🛠️ Stack Gw
 
-- **PAWN** - Main language gw (ngab)
-- **OpenMP/SA-MP** - Framework favorit
-- **Visual Studio Code** - Text editor andalan
-- **Git** - Buat version control
-- **SQLite/MySQL** - Database basics
+**Language**
+- PAWN (main squeeze)
 
-## 🚀 Apa yang Lagi Gw Kerjain
+**Framework**
+- SA-MP
+- OpenMP
 
-- Belajar OOP di PAWN (lumayan tricky)
-- Ngerti in-depth tentang callback dan event handling
-- Coba-coba bikin login system yang proper
-- Debug scriptkode yang error (banyak banget hehe)
+**Tools**
+- VSCode
+- Git (buat backup dan version control)
+- SQLite/MySQL
+
+## 📂 Apa Ada di Repo Ini
+
+- **Script collection** - Berbagai script PAWN yang gw bikin untuk belajar
+- **Dokumentasi** - Catatan pribadi tentang PAWN syntax dan best practices
+- **Mini projects** - Project-project kecil yang lagi gw kerjain
+
+## 🚀 Goal 2026
+
+- [ ] Finish basic gamemode yang proper
+- [ ] Understand OOP di PAWN lebih dalam
+- [ ] Share tutorial PAWN di medium/blog
+
+## 💬 Perlu Bantuan?
+
+Kalo ada yang salah di script gw atau punya saran, langsung aja mention. Gw appreciate feedback, especially dari yang lebih experienced. Buat newbie question juga, gw siap bantu sebisanya!
+
+## 📖 Resources yang Gw Pake
+
+- **SA-MP Wiki** - https://www.sa-mp.com/wiki/
+- **OpenMP Documentation** - https://www.open.mp/
+- **GitHub** - Liat script orang lain, banyak hal bisa dipelajari
+- **Community** - Forum SA-MP dan Discord server
+
+## 🤝 Collaboration
+
+Open untuk collaborate atau discussion tentang PAWN scripting. Cuma warning: skill gw masih developing, jadi jangan expect perfection hehe
+
+---
+
+*Bulan depan gw bakal lebih jago. Semoga.*
 
 ## 📝 Beberapa Script yang Pernah Gw Bikin
 
 **Basic stuff:**
 - Command system sederhana
 - Player spawn logic
-- Chat filter
 - Admin commands
 
 **Struggling with:**
 - Advanced dialog system
 - Database optimization
 - Proper code structure (masih berantakan)
-
-## 🔧 Kenapa Gw Pilih PAWN?
-
-Honestly, PAWN itu unik. Banyak limitation tapi exactly karena itu jadi challenging. Plus community SA-MP masih solid banget, banyak resource yang membantu.
-
-## 📚 Lagi Belajar Dari
-
-- Tutorial YouTube (specific PAWN channels)
-- GitHub repo dengan gamemode populer
-- Trial and error (banyak error hehe)
-- Tanya di forum klo stuck
-
-## 🤝 Kalau Ada Feedback
-
-Gw appreciate banget klo ada saran atau mau diskusi soal script. Klo nemu bug atau ada cara lebih efficient, langsung aja bilang!
 
 ## 📞 Hubungi Gw
 
@@ -56,4 +70,4 @@ Gw appreciate banget klo ada saran atau mau diskusi soal script. Klo nemu bug at
 
 ---
 
-*Still learning, still grinding.* ⚡
+*Still learning, still grinding.* 
