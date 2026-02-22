@@ -1,4 +1,4 @@
-# 👨‍💻 engkqdev | PAWN Scripting Specialist
+# 👨‍💻 Engkqdev | Information
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding-gif" />
@@ -15,22 +15,11 @@
 
 ### 🚀 About Me
 
-Halo! Saya adalah seorang developer yang berfokus pada ekosistem **SA-MP (San Andreas Multiplayer)**. Saya suka mengubah ide menjadi baris kode yang fungsional, mulai dari sistem *roleplay* yang kompleks hingga optimasi *gamemode*.
+Halo! Saya adalah seorang developer pemula yang berfokus pada ekosistem **SA-MP/Open-MP (San Andreas Multiplayer/Open Multiplayer)**. Saya suka mengubah ide menjadi baris kode yang fungsional, mulai dari sistem *roleplay* yang kompleks hingga optimasi *gamemode*.
 
-- 🔭 **Sedang mengerjakan:** Project Gamemode [Nama Project Kamu]
+- 🔭 **Sedang mengerjakan:** Project Gamemode Republic State Roleplay [open.mp]
 - 📚 **Sedang mempelajari:** Advanced Pawn Optimization & YSI Library
-- ⚡ **Hobi:** Menjelajahi San Andreas tanpa tujuan sambil mencari bug.
-
----
-
-### 🛠️ Technology Stack
-
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | `PAWN`, `C`, `HTML5`, `SQL` |
-| **Frameworks** | `YSI Library`, `samp-node`, `open.mp` |
-| **Tools** | `Git`, `VSCode`, `PawnCC`, `Docker` |
-| **Database** | `MySQL`, `SQLite` |
+- ⚡ **Hobi:** Menjelajahi server Sendiri Tanpa Tujuan Sambil Mencari Bug, Enjoy!
 
 ---
 
@@ -50,13 +39,13 @@ Halo! Saya adalah seorang developer yang berfokus pada ekosistem **SA-MP (San An
 ### 📫 Connect with Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/username">
+  <a href="https://linkedin.com/in/engkqsamp">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <a href="https://youtube.com/c/username">
+  <a href="https://youtube.com/c/engkqsamp">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a>
-  <a href="https://discordapp.com/users/username">
+  <a href="https://discordapp.com/users/engkq_">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
 </div>
