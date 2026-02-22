@@ -1,82 +1,74 @@
-# engkqdev
-
-![coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-Developer belajar PAWN & SA-MP scripting.
-
-## Tech Stack
-
-![PAWN](https://img.shields.io/badge/PAWN-FF6B00?style=flat-square&logo=code&logoColor=white)
-![SA-MP](https://img.shields.io/badge/SA--MP-00A4EF?style=flat-square)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+# 👨‍💻 engkqdev | PAWN Scripting Specialist
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding-gif" />
 </div>
-
-###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/badge/PAWN-FF6B00?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/SA--MP-00A4EF?style=for-the-badge&logo=gtav&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </div>
 
-###
+---
+
+### 🚀 About Me
+
+Halo! Saya adalah seorang developer yang berfokus pada ekosistem **SA-MP (San Andreas Multiplayer)**. Saya suka mengubah ide menjadi baris kode yang fungsional, mulai dari sistem *roleplay* yang kompleks hingga optimasi *gamemode*.
+
+- 🔭 **Sedang mengerjakan:** Project Gamemode [Nama Project Kamu]
+- 📚 **Sedang mempelajari:** Advanced Pawn Optimization & YSI Library
+- ⚡ **Hobi:** Menjelajahi San Andreas tanpa tujuan sambil mencari bug.
+
+---
+
+### 🛠️ Technology Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Languages** | `PAWN`, `C`, `HTML5`, `SQL` |
+| **Frameworks** | `YSI Library`, `samp-node`, `open.mp` |
+| **Tools** | `Git`, `VSCode`, `PawnCC`, `Docker` |
+| **Database** | `MySQL`, `SQLite` |
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://streak-stats.demolab.com?user=engkqdev&theme=dark&hide_border=false&border_radius=5" alt="GitHub Streak" />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/SA--MP-00A4EF?style=flat-square" height="40" alt="samp logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkqdev&layout=compact&theme=dark" alt="Top Languages" />
 </div>
 
-###
+---
+
+### 📫 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://youtube.com/c/username">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a>
+  <a href="https://discordapp.com/users/username">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=engkqdev.engkqdev&left_color=gray&right_color=orange" alt="Visitors" />
+</div>
+
+---
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i><br>
+  <b>Happy Scripting! ⚡</b>
+</p>
