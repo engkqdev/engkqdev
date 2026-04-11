@@ -1,4 +1,4 @@
-# 👋 Halo, Gue Engkq! | Hi, I'm Engkq!
+# 👋 I'm Engkq!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Main--Language-Pawn-ffd500?style=for-the-badge&logo=pawn&logoColor=black" />
@@ -7,9 +7,6 @@
 </p>
 
 ---
-
-### 🇮🇩 Bahasa Indonesia
-Gue adalah seorang pengembang yang fokus di dunia scripting SA-MP. Perjalanan gue dimulai dari rasa penasaran yang nggak habis-habis tentang gimana logika di balik sebuah sistem bekerja—mulai dari celah keamanan sampai mekanisme fitur yang kompleks. Bagi gue, setiap baris kode adalah eksperimen untuk menciptakan sesuatu yang lebih solid dan bermanfaat bagi komunitas.
 
 ### 🇺🇸 English
 I am a developer focused on the world of SA-MP scripting. My journey began with an endless curiosity about how the logic behind a system works—from security vulnerabilities to complex feature mechanisms. For me, every line of code is an experiment to create something more solid and beneficial for the community.
