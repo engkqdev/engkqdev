@@ -32,9 +32,10 @@ Saya aktif mendokumentasikan perkembangan project dan berbagi cuplikan fitur ter
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark&hide_border=true" alt="Engkq's Stats" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkqdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Engkq's Top Langs" />
-</p>
+</div>
 
 </div>
