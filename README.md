@@ -1,43 +1,40 @@
-# 👋 I'm Engkq!
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Main--Language-Pawn-ffd500?style=for-the-badge&logo=pawn&logoColor=black" />
-  <img src="https://img.shields.io/badge/Expertise-Security%20%26%20Systems-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Things-brightgreen?style=for-the-badge" />
-</p>
+# 👋 Hello, I'm Engkq!
 
----
-
-### 🇺🇸 English
-I am a developer focused on the world of SA-MP scripting. My journey began with an endless curiosity about how the logic behind a system works—from security vulnerabilities to complex feature mechanisms. For me, every line of code is an experiment to create something more solid and beneficial for the community.
+### About Me
+Nama saya **Rizki Muhammad Adam**, akrab disapa **Engkq**. Lahir di Jawa Tengah, Banjarnegara. Saat ini saya fokus mendalami pengembangan server berbasis **Pawn (SA-MP/open.mp)**, **JavaScript (Discord.js)**, serta **Full-stack Web (PHP & HTML)**. Saya adalah seorang pembelajar yang antusias.
 
 ---
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <a href="https://github.com/engkqdev">
-    <img src="https://img.shields.io/badge/Pawn-FFD500?style=for-the-badge&logo=pawn&logoColor=black" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 📺 My Showcases
-Gue juga aktif share hasil perkembangan project gue. Kalian bisa liat rilis terbaru atau cuplikan fitur yang lagi gue garap lewat repository gue.
-
-* 🎬 **YouTube**: [EngkqSamp](https://youtube.com/@engkqsamp?si=VR-R9adayhDaSg9r)
-* 💬 **Discord**: `engkq_`
-
----
-
-**"Code is like humor. When you have to explain it, it’s bad."**
-*- Engkq*
+### Tech Stack & Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark" alt="Engkq's GitHub stats" />
+  <img src="https://img.shields.io/badge/Pawn-FFD500?style=for-the-badge&logo=pawn&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
+---
+
+### Showcases
+Saya aktif mendokumentasikan perkembangan project dan berbagi cuplikan fitur terbaru di sini.
+
+**YouTube** : [EngkqSamp](https://youtube.com/@engkqsamp) | **Discord** : [Click Here!](https://discord.gg/FzEcpt8xAd)
+
+---
+
+*"Code is like humor. When you have to explain it, it’s bad."*
+*- Engkq*
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark&hide_border=true" alt="Engkq's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkqdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Engkq's Top Langs" />
+</p>
+
+</div>
