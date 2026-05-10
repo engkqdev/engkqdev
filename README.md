@@ -11,9 +11,7 @@ Nama saya **Rizki Muhammad Adam**, akrab disapa **Engkq**. Lahir di Jawa Tengah,
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pawn-FFD500?style=for-the-badge&logo=pawn&logoColor=black" />
-  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 ---
@@ -31,9 +29,9 @@ Saya aktif mendokumentasikan perkembangan project dan berbagi cuplikan fitur ter
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engkqdev&show_icons=true&theme=dark&hide_border=true" alt="Engkq's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Engkq&show_icons=true&theme=dark&hide_border=true" alt="Engkq's Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engkqdev&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Engkq's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Engkq&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Engkq's Top Langs" />
 </div>
 
 </div>
